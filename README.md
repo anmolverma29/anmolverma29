@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anmolverm29&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat&logo=hireme" />
   <img src="https://img.shields.io/badge/Based%20in-Roorkee%2C%20India-blue?style=flat&logo=googlemaps" />
 </p>
@@ -21,14 +21,14 @@
 - 🎨 Side interest: **generative art** and **chaos theory** — where math meets creativity
 - 🌱 Actively building projects in **Data Analytics, Business Intelligence, and Full-Stack AI tools**
 - 💼 Open to roles in **Data Analysis, Business Analysis, Python Development & Software Engineering**
-- 📫 Reach me at: **anmolverma2964@gmail.com**
+- 📫 Reach me at: **anmolverma2964@gmai.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,gcp,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
@@ -77,6 +77,60 @@ Kaggle-sourced sales & conversion analytics dashboard — built to demonstrate b
 
 ---
 
+### ☁️ Google Cloud Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Member_Since-2021-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/70%2B-Badges_Earned-FBBC05?style=for-the-badge" />
+</p>
+
+Hands-on cloud & data credentials earned via **Google Cloud Skills Boost** — [view full profile →](https://www.skills.google/public_profiles/431fc757-66d4-4dab-a0df-9ba05dba2ded)
+
+<details>
+<summary><b>🏅 Data & Analytics Skill Badges</b></summary>
+<br>
+
+- Prepare Data for Looker Dashboards and Reports
+- Analyze BigQuery Data in Connected Sheets
+- Streaming Analytics into BigQuery
+- Use Functions, Formulas, and Charts in Google Sheets
+- Level 2: Data Exploration with Looker, BigQuery and Sheets
+- Level 3: BigQuery and Firebase
+- Get Started with Looker
+
+</details>
+
+<details>
+<summary><b>🧠 AI / Cloud Digital Leader Track</b></summary>
+<br>
+
+- Innovating with Google Cloud Artificial Intelligence
+- Exploring & Digital Transformation with Google Cloud
+- Analyze Speech and Language with Google APIs
+- Level 3: GenAIus Chats
+- Trust and Security with Google Cloud
+- Scaling with Google Cloud Operations
+- Modernize Infrastructure and Applications with Google Cloud
+
+</details>
+
+<details>
+<summary><b>⚙️ Cloud Infrastructure & DevOps</b></summary>
+<br>
+
+- Set Up an App Dev Environment on Google Cloud
+- Monitor and Manage Google Cloud Resources
+- Store, Process, and Manage Data on Google Cloud (Console & CLI)
+- Terraform Init: An Infrastructure Challenge
+- Level 3: Google Cloud Functions
+- Level 3: Google Cloud Adventures
+- Level 1: Managing Resources and Data in the Cloud
+
+</details>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -93,7 +147,7 @@ Kaggle-sourced sales & conversion analytics dashboard — built to demonstrate b
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/anmol-verma-2962k04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anmol-verma-2962k04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anmolverma2964@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </a>
 </p>
